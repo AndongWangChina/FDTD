@@ -2,7 +2,9 @@ clc;
 close all;
 clear;
 %%
-%Question:1 foot materials=304.8mm
+%Question:1 foot materials=304.8mm;mu=2; epsilon=6;
+%To get the reflection and transmission
+%
 
 %%
 %Initialize Simulation
